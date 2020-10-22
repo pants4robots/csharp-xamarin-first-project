@@ -31,7 +31,7 @@
 
     <!-- Your Pages -->
     <FlyoutItem  FlyoutDisplayOptions="AsSingleItem" Title="Bucket List">
-        <Tab Title="Browse" Icon="tab_feed.png">
+        <Tab Title="List" Icon="tab_feed.png">
             <local:ItemsPage />
             <!-- Add NewItemPage element here -->
             <local:NewItemPage />
